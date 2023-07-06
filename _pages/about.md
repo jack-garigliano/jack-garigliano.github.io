@@ -6,7 +6,7 @@ subtitle: Graduate student, Northwestern University
 
 profile:
   align: right
-  image: jack-garigliano-profshot_cropped.JPG
+  image: /assets/img/jack-garigliano-profshot_cropped.JPG
   image_circular: false # crops the image to make it circular
   address: # >
     # <p>555 your office number</p>
