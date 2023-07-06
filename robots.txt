@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jack-garigliano.github.io/_pages/sitemap.xml
+Sitemap: https://jack-garigliano.github.io/sitemap.xml
