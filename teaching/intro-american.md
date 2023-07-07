@@ -14,7 +14,7 @@ horizontal: false
 
 <div class="grid-container">
     <div class="grid-item">
-        <div class="card mt-3">
+        <div class="card w-30">
             <div class="p-3">
                 <div class="row">
                   <div class="col-sm-4">
@@ -25,7 +25,7 @@ horizontal: false
         </div>
 
         <div class="grid-item">
-        <div class="card mt-3">
+        <div class="card w-30">
             <div class="p-3">
                 <div class="row">
                   <div class="col-sm-4">
@@ -36,7 +36,7 @@ horizontal: false
         </div>
 
         <div class="grid-item">
-        <div class="card mt-3">
+        <div class="card w-30">
             <div class="p-3">
                 <div class="row">
                   <div class="col-sm-4">
