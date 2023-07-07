@@ -70,7 +70,8 @@ nav_order: 5
     </ul>
   </div>
 </div>
-
+<br>
+<br>
 <h3 style="color: #4b9cd3;">Seattle Community College</h3>
 <!-- Seattle Community College -->
 <div class="card mt-3">
@@ -94,7 +95,8 @@ nav_order: 5
     </ul>
   </div>
 </div>
-
+<br>
+<br>
 <h3 style="color: #4b9cd3;">University of Wisconsin-Madison</h3>
 <!-- UW-Madison -->
 <div class="card mt-3">
