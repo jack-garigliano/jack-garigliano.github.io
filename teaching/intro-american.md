@@ -18,7 +18,6 @@ horizontal: false
     </div>
 </div>
 
-        <div class="grid-item">
         <div class="card w-30">
             <div class="p-3">
                 <div class="row">
@@ -27,9 +26,8 @@ horizontal: false
                   </div>
                 </div>
             </div>
-        </div>
 
-        <div class="grid-item">
+
         <div class="card w-30">
             <div class="p-3">
                 <div class="row">
@@ -38,5 +36,4 @@ horizontal: false
                   </div>
                 </div>
             </div>
-        </div>
         </div>
