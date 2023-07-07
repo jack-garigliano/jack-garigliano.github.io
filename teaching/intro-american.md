@@ -18,7 +18,7 @@ horizontal: false
             <div class="p-3">
                 <div class="row">
                   <div class="col-sm-4">
-        <h5 class="card-title">Test</h5>
+        <h5 class="card-title"><a href="/assets/pdf/partieslab.pdf">Parties</a></h5>
                   </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@ horizontal: false
             <div class="p-3">
                 <div class="row">
                   <div class="col-sm-4">
-        <h5 class="card-title">Test</h5>
+        <h5 class="card-title"><a href="/assets/pdf/federalismlab.pdf">Federalism</a></h5>
                   </div>
                 </div>
             </div>
@@ -40,8 +40,9 @@ horizontal: false
             <div class="p-3">
                 <div class="row">
                   <div class="col-sm-4">
-        <h5 class="card-title">Test</h5>
+        <h5 class="card-title"><a href="/assets/pdf/presidencylab.pdf">Presidency</a></h5>
                   </div>
                 </div>
             </div>
+        </div>
         </div>
