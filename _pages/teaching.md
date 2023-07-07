@@ -115,9 +115,6 @@ nav_order: 5
           <div class="col-sm-3">
             Fall 2008-Spring 2010
           </div>
-          <div class="col-sm-3">
-            Slides
-          </div>
         </div>
       </li>
     </ul>
