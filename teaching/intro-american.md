@@ -1,24 +1,35 @@
 ---
 layout: page
-title: Teaching | American Gov't. & Politics
+title: #Teaching | American Gov't. & Politics
 permalink: /teaching/intro-american
-description: Group activity labs created for Spring 2022 introductory American Politics course
+description: #Group activity labs created for Spring 2022 introductory American Politics course
 nav: false
 nav_order: 2
 horizontal: false
 ---
 
-<h3>This is actually the title tee hee hee</h3>
+<h2>Teaching</h2>
+<h3>American Government and Politics</h3>
 
-<div class="container">
-    <div class="row row-cols-2">
-    Leeeet's test
-    </div>
-  </div>
+<div class="grid-container">
+    <div class="grid-item">
+        <div class="card mt-3">
+            <div class="p-3">
+                <div class="row">
+                  <div class="col-sm-10">
+        <h5 class="card-title">Test</h5>
+                  </div>
+                </div>
+            </div>
+        </div>
 
-
-  <div class="container">
-    <div class="row row-cols-2">
-    Leeeet's test 2
-    </div>
-  </div>
+        <div class="grid-item">
+        <div class="card mt-3">
+            <div class="p-3">
+                <div class="row">
+                  <div class="col-sm-10">
+        <h5 class="card-title">Test</h5>
+                  </div>
+                </div>
+            </div>
+        </div>
