@@ -10,13 +10,14 @@ horizontal: false
 
 <h2>Teaching</h2>
 <h3>American Government and Politics</h3>
+<h4><i>Group activity labs</i></h4>
 
 <div class="grid-container">
     <div class="grid-item">
         <div class="card mt-3">
             <div class="p-3">
                 <div class="row">
-                  <div class="col-sm-10">
+                  <div class="col-sm-4">
         <h5 class="card-title">Test</h5>
                   </div>
                 </div>
@@ -27,7 +28,18 @@ horizontal: false
         <div class="card mt-3">
             <div class="p-3">
                 <div class="row">
-                  <div class="col-sm-10">
+                  <div class="col-sm-4">
+        <h5 class="card-title">Test</h5>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-item">
+        <div class="card mt-3">
+            <div class="p-3">
+                <div class="row">
+                  <div class="col-sm-4">
         <h5 class="card-title">Test</h5>
                   </div>
                 </div>
