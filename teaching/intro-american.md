@@ -15,21 +15,21 @@ horizontal: false
 <h5><i>Group activity labs</i></h5>
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro american/partieslab.pdf">Parties</a></h5>
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro american/federalismlab.pdf">Federalism</a></h5>
       </div>
     </div>
   </div>
-<div class="col-sm-6">
+<div class="col-sm-3">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro american/presidencylab.pdf">Presidency</a></h5>
