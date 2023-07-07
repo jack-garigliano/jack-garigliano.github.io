@@ -61,9 +61,9 @@ horizontal: false
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <p>
+      <div class="col-md-12">
         Scholarship on US parties frequently identify presidential primaries as a contributor to weak parties and polarization. However, while such studies tend to identify interest groups, activists, and other policy demanders as incentives for candidates to adopt more extreme positions, it is often unclear whether the primary electorate plays the same role. I clarify this role by identifying the effects of primary campaigns on the electorate based on variation in state nomination methods before the 1972 primary reforms. I find evidence that primary campaigns informed electoral preferences during this period, building a coalition of electoral supporters rather than reacting to predetermined electoral preferences. However, primary coalition-building did not necessarily favor more extreme candidates at the expense of moderate candidates. The results run contrary to normative arguments against public participation in party affairs and emphasize the need in future studies for greater distinction between primary campaigns and the electorate.
-      </p>
+      </div>
     </ul>
   </div>
 </div>
