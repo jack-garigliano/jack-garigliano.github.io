@@ -16,7 +16,6 @@ nav_order: 5
         <h5 id="comp311" class="card-title">Teaching Assistant</h5>
       </div>
     </div>
-    <div class="card body">
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
@@ -70,8 +69,7 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>
-</div>       
+</div>      
 <br>
 <br>
 <h3 style="color: #4b9cd3;">Seattle Community College</h3>
@@ -80,6 +78,8 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <div class="card">
+          <div class="card-body">
         <h5 id="comp311" class="card-title">Writing Tutor</h5>
       </div>
     </div>
@@ -95,6 +95,8 @@ nav_order: 5
         </div>
       </li>
     </ul>
+      </div>
+    </div>
   </div>
 </div>
 <br>
