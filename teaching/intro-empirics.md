@@ -20,6 +20,7 @@ horizontal: false
       </div>
         <div class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 1.pdf">Introduction</a>
+        </div>
     </div>
   </div>
   </div>
