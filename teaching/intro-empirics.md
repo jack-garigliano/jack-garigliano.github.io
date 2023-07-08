@@ -17,10 +17,10 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 1.pdf">Week 1</a></h5>
-      </div>
         <div class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 1.pdf">Introduction</a>
         </div>
+      </div>
     </div>
   </div>
   <div class="col-sm-3">
