@@ -365,7 +365,8 @@ footer.sticky-bottom {
     border: 1px solid var(--global-divider-color);
 
     .list-group-item {
-      background-color: inherit;
+      background-color: var(--global-card-bg-color);
+      color: var(--global-text-color-light);
       border-color: var(--global-divider-color);
 
       .badge {
