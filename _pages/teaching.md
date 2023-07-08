@@ -16,17 +16,23 @@ nav_order: 5
         <h5 id="comp311" class="card-title">Teaching Assistant</h5>
       </div>
     </div>
-    <ul class="card-text list-group list-group-flush">
+    <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-6">
-            POSC 210: Intro to Empirical Methods
+            <div class="card-text">
+              POSC 210: Intro to Empirical Methods
+            </div>
           </div>
           <div class="col-sm-3">
+            <div class="card-text">
             Spring 2023
+            </div>
           </div>
           <div class="col-sm-3">
+            <div class="card-text">
             <a href="/teaching/intro-empirics">Slides</a>
+            </div>
           </div>
         </div>
       </li>
