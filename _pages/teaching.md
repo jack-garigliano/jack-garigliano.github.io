@@ -17,6 +17,7 @@ nav_order: 5
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
         <div class="row">
           <div class="col-sm-6">
               POSC 210: Intro to Empirical Methods
@@ -28,6 +29,7 @@ nav_order: 5
             <a href="/teaching/intro-empirics">Slides</a>
           </div>
         </div>
+      </li>
        <li class="list-group-item">
         <div class="row">
           <div class="col-sm-6">
