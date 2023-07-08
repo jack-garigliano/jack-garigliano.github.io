@@ -16,6 +16,7 @@ nav_order: 5
         <h5 id="comp311" class="card-title">Teaching Assistant</h5>
       </div>
     </div>
+    <div class="card body">
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
@@ -26,7 +27,7 @@ nav_order: 5
             Spring 2023
           </div>
           <div class="col-sm-3">
-            Slides
+            <a href="/teaching/intro-empirics">Slides</a>
           </div>
         </div>
       </li>
@@ -39,7 +40,7 @@ nav_order: 5
             Spring 2022
           </div>
           <div class="col-sm-3">
-            Group activities
+            <a href="/teaching/intro-american">Group activities</a>
           </div>
         </div>
       </li>
@@ -70,6 +71,7 @@ nav_order: 5
     </ul>
   </div>
 </div>
+</div>       
 <br>
 <br>
 <h3 style="color: #4b9cd3;">Seattle Community College</h3>
