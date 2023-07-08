@@ -22,6 +22,7 @@ horizontal: false
             <a href="/assets/pdf/intro empirics/PS210 Week 1.pdf">Introduction</a>
     </div>
   </div>
+  </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
