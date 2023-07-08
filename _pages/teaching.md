@@ -9,6 +9,7 @@ nav_order: 5
 
 <h3 style="color: #4b9cd3;">Northwestern University</h3>
 <!-- Northwestern University -->
+<div class="row">
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -69,7 +70,8 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>      
+</div> 
+</div>
 <br>
 <br>
 <h3 style="color: #4b9cd3;">Seattle Community College</h3>
