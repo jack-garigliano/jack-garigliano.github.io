@@ -8,12 +8,12 @@ nav_order: 2
 horizontal: false
 ---
 
-<h2>Teaching</h2>
-<h3>American Government and Politics</h3>
+<h4><a href="/_pages/teaching.md><span>&#8592;</span> Teaching</a></h4>
+<h2>American Government and Politics</h2>
+<br>
+<h5><i>Group labs</i></h5>
 <br>
 <br>
-<h5><i>Group activity labs</i></h5>
-
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
