@@ -8,10 +8,12 @@ nav_order: 2
 horizontal: false
 ---
 
-<h2>Teaching</h2>
-<h3>Introduction to Empirical Methods</h3>
-<h4><i>Slides</i></h4>
-
+<h4><a href="/teaching/"><span>&#8592;</span> Teaching</a></h4>
+<h2>Introduction to Empirical Methods</h2>
+<br>
+<h5><i>Slides</i></h5>
+<br>
+<br>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -26,15 +28,73 @@ horizontal: false
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title"><a href="/assets/pdf/intro american/federalismlab.pdf">Federalism</a></h5>
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 2.pdf">Week 2</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 2.pdf">Research questions and theory</a>
+        </div>
       </div>
     </div>
   </div>
 <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title"><a href="/assets/pdf/intro american/presidencylab.pdf">Presidency</a></h5>
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 3.pdf">Week 3</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 3.pdf">Data and measurement</a>
+        </div>
       </div>
     </div>
   </div>
-</div>
+<div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 4.pdf">Week 4</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 4.pdf">Experiments</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 5.pdf">Week 5</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 5.pdf">Regression and large-N analysis</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 6.pdf">Week 6</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 6.pdf">Small-N analysis</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 7.pdf">Week 7</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 7.pdf">Surveys</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 8.pdf">Week 8</a></h5>
+        <div class="card-text">
+            <a href="/assets/pdf/intro empirics/PS210 Week 8.pdf">Machine learning</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
