@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-<h4><a href="/_pages/teaching.md><span>&#8592;</span> Teaching</a></h4>
+<h4><a href="/teaching/"><span>&#8592;</span> Teaching</a></h4>
 <h2>American Government and Politics</h2>
 <br>
 <h5><i>Group labs</i></h5>
