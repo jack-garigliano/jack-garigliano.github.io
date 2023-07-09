@@ -16,8 +16,9 @@ nav_order: 5
         <h5 id="comp311" class="card-title">Teaching Assistant</h5>
       </div>
     </div>
-    <div class="row">
-        <li class="list-group-item">
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
           <div class="col-sm-6">
               POSC 210: Intro to Empirical Methods
           </div>
@@ -27,10 +28,10 @@ nav_order: 5
           <div class="col-sm-3">
             <a href="/teaching/intro-empirics">Slides</a>
           </div>
-        </li>
-    </div>
-    <div class="row">
-      <li class="list-group-item">
+        </div>
+      </li>
+       <li class="list-group-item">
+        <div class="row">
           <div class="col-sm-6">
             POSC 220: American Government & Politics
           </div>
@@ -40,10 +41,10 @@ nav_order: 5
           <div class="col-sm-3">
             <a href="/teaching/intro-american">Group activities</a>
           </div>
+        </div>
       </li>
-    </div>
-    <div class="row">
       <li class="list-group-item">
+        <div class="row">
           <div class="col-sm-6">
             POSC 332: Constitutional Law I
           </div>
@@ -52,10 +53,10 @@ nav_order: 5
           </div>
           <div class="col-sm-3">
           </div>
+        </div>
       </li>
-    </div>
-    <div class="row">
       <li class="list-group-item">
+        <div class="row">
           <div class="col-sm-6">
             POSC 250: Intro to Comparative Politics
           </div>
@@ -64,8 +65,9 @@ nav_order: 5
           </div>
           <div class="col-sm-3">
           </div>
+        </div>
       </li>
-    </div>
+    </ul>
   </div>
 </div> 
 <br>
