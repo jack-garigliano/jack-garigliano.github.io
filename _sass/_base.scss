@@ -102,6 +102,11 @@ blockquote {
       display: flex;
       align-items: center;
     }
+
+    .list-group-item {
+      background-color: inherit;
+      border-color: var(--global-divider-color);
+    }
   }
 }
 
@@ -365,8 +370,7 @@ footer.sticky-bottom {
     border: 1px solid var(--global-divider-color);
 
     .list-group-item {
-      background-color: var(--global-card-bg-color);
-      color: var(--global-text-color-light);
+      background-color: inherit;
       border-color: var(--global-divider-color);
 
       .badge {
