@@ -102,6 +102,16 @@ blockquote {
       display: flex;
       align-items: center;
     }
+
+     .list-group-item {
+        background-color: inherit;
+        border-color: var(--global-divider-color);
+
+        .badge {
+          color: var(--global-card-bg-color) !important;
+          background-color: var(--global-theme-color) !important;
+      }
+    }
     
   }
 }
