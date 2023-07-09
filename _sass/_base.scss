@@ -102,7 +102,12 @@ blockquote {
       display: flex;
       align-items: center;
     }
-
+    
+    .list-group-item {
+      background-color: inherit;
+      border-color: var(--global-divider-color);
+    }
+    
   }
 }
 
