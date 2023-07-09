@@ -82,6 +82,7 @@ nav_order: 5
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
             Held scheduled and drop-in appointments in the Writing Lab to help students with their written class assignments.
@@ -90,6 +91,7 @@ nav_order: 5
             Sept. 2010 - Apr. 2011
           </div>
         </div>
+      </li>
     </ul>
       </div>
     </div>
