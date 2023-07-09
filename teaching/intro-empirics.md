@@ -54,6 +54,7 @@ horizontal: false
         </div>
       </div>
     </div>
+</div>
   <div class="grid-item">
     <div class="card">
       <div class="card-body">
