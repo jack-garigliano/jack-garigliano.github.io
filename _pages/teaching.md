@@ -16,7 +16,6 @@ nav_order: 5
         <h5 id="comp311" class="card-title">Teaching Assistant</h5>
       </div>
     </div>
-    <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-6">
@@ -67,7 +66,6 @@ nav_order: 5
           </div>
         </div>
       </li>
-    </ul>
   </div>
 </div> 
 <br>
