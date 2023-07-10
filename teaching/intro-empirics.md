@@ -14,7 +14,7 @@ horizontal: false
 <h5><i>Slides</i></h5>
 <br>
 <br>
-<div class="row">
+<div class="card-deck">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
@@ -56,7 +56,7 @@ horizontal: false
     </div>
   </div>
 
-  <div class="row">
+  <div class="card-deck">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body">
