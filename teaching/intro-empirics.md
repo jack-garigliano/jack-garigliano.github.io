@@ -47,7 +47,9 @@ horizontal: false
         </p>
       </div>
     </div>
-
+</div>
+<br>
+<div class="card-deck">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 5.pdf">Week 5</a></h5>
