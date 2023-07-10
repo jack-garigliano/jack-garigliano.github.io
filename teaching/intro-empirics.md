@@ -19,9 +19,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 1.pdf">Week 1</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 1.pdf">Introduction</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -29,9 +29,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 2.pdf">Week 2</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 2.pdf">Research questions and theory</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -39,9 +39,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 3.pdf">Week 3</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 3.pdf">Data and measurement</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -49,9 +49,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 4.pdf">Week 4</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 4.pdf">Experiments</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -61,9 +61,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 5.pdf">Week 5</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 5.pdf">Regression and large-N analysis</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -71,9 +71,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 6.pdf">Week 6</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 6.pdf">Small-N analysis</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -81,9 +81,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 7.pdf">Week 7</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 7.pdf">Surveys</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
@@ -91,9 +91,9 @@ horizontal: false
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 8.pdf">Week 8</a></h5>
-        <div class="card-text">
+        <p class="card-text">
             <a href="/assets/pdf/intro empirics/PS210 Week 8.pdf">Machine learning</a>
-        </div>
+        </p>
       </div>
     </div>
   </div>
