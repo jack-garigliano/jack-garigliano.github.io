@@ -47,8 +47,7 @@ horizontal: false
         </p>
       </div>
     </div>
-</div>
-  <div class="card-deck">
+
     <div class="card">
       <div class="card-body">
         <h5 class="card-title"><a href="/assets/pdf/intro empirics/PS210 Week 5.pdf">Week 5</a></h5>
@@ -82,5 +81,4 @@ horizontal: false
       </div>
     </div>
   </div>
-</div>
 
