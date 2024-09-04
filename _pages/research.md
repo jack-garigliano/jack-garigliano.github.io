@@ -37,7 +37,7 @@ horizontal: false
     <div class="row">
       <div class="col-sm-10">
         <h5 class="card-title">Class differences in precarity and welfare priorities within Europe's center-left coalitions</h5>
-        <h6 class="card-subtitle font-italic">[https://doi.org/10.1177/13540688231199448]([url](https://doi.org/10.1177/13540688231199448))</h6>
+        <h6 class="card-subtitle font-italic">[https://doi.org/10.1177/13540688231199448](https://doi.org/10.1177/13540688231199448)</h6>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
