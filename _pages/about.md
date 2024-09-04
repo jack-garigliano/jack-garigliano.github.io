@@ -19,6 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I’m a graduate student in Political Science at Northwestern University. I’m interested in political economy, political organizations and movements, and inequality. My dissertation project studies how ongoing changes to the nature of work affect our experience with and engagement in political life in the United States.
+Welcome! I’m a doctoral candidate in Political Science at Northwestern University. I’m interested in political economy, political organizations and movements, and inequality. My dissertation project studies how power and precarity in workplaces and labor markets affects political life in the United States.
 
-Here you can find out more about the things I’ve been working on. You can also get in touch through any of the options listed below.
+My work has been published in_[_Party Politics_]_([url](https://journals.sagepub.com/doi/full/10.1177/13540688231199448)) and my current research is supported by the Russell Sage Foundation, the APSA Centennial Center, and the Consortium for the American Political Economy. My school recently did a profile on me that you can read [here]([url](https://www.tgs.northwestern.edu/about/our-people/spotlight/jack-garigliano-hehim.html)).
+
+
+On these pages you can find out more about the things I’ve been working on. You can also get in touch through any of the options listed below.
