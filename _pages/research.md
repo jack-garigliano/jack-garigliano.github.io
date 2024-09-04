@@ -12,22 +12,30 @@ horizontal: false
 <h3 style="color: #4b9cd3;">Dissertation project</h3>
 <!-- Dissertation project -->
 <div class="card mt-3">
+    <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title">Political learning in the US labor market (working title)</h5>
+      </div>
+    </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <div class="col-md-12">
-          My dissertation will study the political implications of growing job precarity across multiple levels of the labor market. This trend has upended the implicit social contract traditionally held in higher-income positions, in which workers receive subsidized benefits through their job, while further deteriorating working conditions in lower-income positions. In the proposed set of projects, I aim to study how employment precarity, intersecting with a racially stratified and gendered labor market, impacts the political system in three different areas. First, I study how precarity influences political attitudes towards public and private modes of distributing resources, paying special attention to the legacy of the US’ employment-oriented means of distributing benefits. Next, I study how precarity influences electoral politics, identifying changes in electoral participation and partisan identification within and between individuals over the time period of interest, then studying changes in mass partisan coalitions over the same time period at the aggregate level. Finally, I look to identify cases where the aggregate growth of precarity at local levels are associated with non-electoral mobilization, including within the workplace itself. Through these approaches, I hope to construct a better understanding of the material foundations of the political transformations that have unfolded over the last several decades.
+    My dissertation studies how working in low-wage jobs influences political trust and engagement. There’s already a large body of research suggesting that when workplaces are more democratic – including, most notably, when workplaces are unionized – workers are more politically and civically engaged. However, most workplaces in the United States are not unionized and workers have little say over their employer’s decisions. This lack of employee voice is especially pronounced in low-wage sectors of the labor market, where substandard working conditions and violations of employment law are frequent. How, then, does the lack of control over conditions in these private spaces influence a person’s trust and engagement in civic and political affairs? When does mistrust of private authorities lead to mistrust of public authorities and of collective forms of action? And in what cases does dissatisfaction in one’s job lead to mobilization for change, whether within politics or in the workplace itself?
+
+    To address these questions, I am conducting a survey directed at workers in the fast-food and retail industries. These industries are useful for understanding the effects of limited worker voice more generally. Low union coverage, high turnover rates, and limited public oversight have traditionally enabled companies in these industries to cut costs through their labor expenses, resulting in poor pay, limited benefits, unpredictable scheduling, and other undesirable working conditions. At the same time, employment practices vary widely between different stores and outlets, even within the same fast-food or retail brand. This allows us to learn from the diversity of experiences in comparable occupations, which I plan to do through mixed-methods approaches.
       </div>
     </ul>
 </div>
 <br>
 <br>        
 <h3 style="color: #4b9cd3;">Working papers</h3>
-<!-- Working papers -->
+<!-- Publications -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title">Conflicted coalitions: How classes respond differently to risk and what it means for center-left coalitions</h5>
-        <h6 class="card-subtitle font-italic">Submitted response to journal's offer to revise and resubmit</h6>
+        <h5 class="card-title">Class differences in precarity and welfare priorities within Europe's center-left coalitions</h5>
+        <h6 class="card-subtitle font-italic">[https://doi.org/10.1177/13540688231199448](https://doi.org/10.1177/13540688231199448)</h6>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
@@ -38,6 +46,7 @@ horizontal: false
   </div>
 </div>
 
+<!-- Working papers -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
