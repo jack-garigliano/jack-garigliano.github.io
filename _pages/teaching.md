@@ -20,6 +20,42 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-6">
+              POSC 406: Quantitative Causal Inference
+          </div>
+          <div class="col-sm-3">
+            Spring 2024
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-6">
+              POSC 405: Linear Models
+          </div>
+          <div class="col-sm-3">
+            Winter 2024
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-6">
+              POSC 210: Intro to Empirical Methods
+          </div>
+          <div class="col-sm-3">
+            Fall 2024
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-6">
               POSC 210: Intro to Empirical Methods
           </div>
           <div class="col-sm-3">
