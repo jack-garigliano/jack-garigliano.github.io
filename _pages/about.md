@@ -8,8 +8,8 @@ profile:
   align: right
   image: jack-garigliano-profshot_cropped.JPG
   image_circular: false # crops the image to make it circular
-  address: # >
-    # <p>555 your office number</p>
+  email:  >
+    <p><jack.garigliano@u.northwestern.edu></p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
@@ -25,4 +25,4 @@ My work has been published in _[Party Politics](https://journals.sagepub.com/doi
 
 On these pages you can learn more about what I'm working on. My school also did a very nice profile on me that you can read [here](https://www.tgs.northwestern.edu/about/our-people/spotlight/jack-garigliano-hehim.html). 
 
-Get in touch: [jack.garigliano@u.northwestern.edu](jack.garigliano@u.northwestern.edu)
+Get in touch: <jack.garigliano@u.northwestern.edu>
