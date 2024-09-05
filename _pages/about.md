@@ -16,7 +16,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Welcome! I’m a doctoral candidate in Political Science at Northwestern University. I’m interested in political economy, political organizations and movements, and inequality. My dissertation project studies how power and precarity in workplaces and labor markets affects political life in the United States.
