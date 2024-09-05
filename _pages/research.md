@@ -41,7 +41,8 @@ horizontal: false
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <div class="col-md-12">
-[doi.org/10.1177/13540688231199448](https://doi.org/10.1177/13540688231199448)
+[https://doi.org/10.1177/13540688231199448](https://doi.org/10.1177/13540688231199448)
+          <br)
         Mainstream European left-wing parties have seen their traditional class base evolve in postindustrial economies. In response, these parties have adopted redistributive strategies that aim to secure positions for workers in a more volatile labor market through education and training. But how does the electoral appeal of this “social investment” paradigm compare to that of the older welfare paradigm that passively distributes benefits to the poor and inactive? Using cross-country data from two surveys, I find that the policy preferences of industrial workers respond differently to labor market precarity than do those of service sector workers, particularly sociocultural professionals. Further, industrial workers who prefer traditional welfare policies are less likely to vote for the center-left than white-collar professionals, even if those professionals hold similar policy priorities. These results help explain the center-left’s recent electoral trends while also highlighting current limitations on building cross-class political coalitions.
       </div>
     </ul>
