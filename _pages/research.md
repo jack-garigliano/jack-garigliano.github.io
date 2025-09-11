@@ -9,21 +9,18 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<h3 style="color: #4b9cd3;">Dissertation project</h3>
+<h3 style="color: #4b9cd3;">Job market paper</h3>
 <!-- Dissertation project -->
 <div class="card mt-3">
     <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title">Political learning in the US labor market (working title)</h5>
+        <h5 class="card-title">Low-wage work and political participation in the American labor market</h5>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <div class="col-md-12">
-    My dissertation studies how working in low-wage jobs influences political trust and engagement. There’s already a large body of research suggesting that when workplaces are more democratic – including, most notably, when workplaces are unionized – workers are more politically and civically engaged. However, most workplaces in the United States are not unionized and workers have little say over their employer’s decisions. This lack of employee voice is especially pronounced in low-wage sectors of the labor market, where substandard working conditions and violations of employment law are frequent. How, then, does the lack of control over conditions in these private spaces influence a person’s trust and engagement in civic and political affairs? When does mistrust of private authorities lead to mistrust of public authorities and of collective forms of action? And in what cases does dissatisfaction in one’s job lead to mobilization for change, whether within politics or in the workplace itself?
-<br>
-<br>
-    To address these questions, I am conducting a survey directed at workers in the fast-food and retail industries. These industries are useful for understanding the effects of limited worker voice more generally. Low union coverage, high turnover rates, and limited public oversight have traditionally enabled companies in these industries to cut costs through their labor expenses, resulting in poor pay, limited benefits, unpredictable scheduling, and other undesirable working conditions. At the same time, employment practices vary widely between different stores and outlets, even within the same fast-food or retail brand. This allows us to learn from the diversity of experiences in comparable occupations, which I plan to do through mixed-methods approaches.
+    Despite the persistent class gap in political participation, we know surprisingly little about how working in low-wage labor markets might affect someone’s political outlook and behavior. To better understand this relationship, I use a mixed-method approach to studying workers in an industry where wages are especially low: Fast food. Through in-depth interviews with more than 60 fast-food workers across the United States, I find that low-wage workers draw on public programs and policies that impact their income and job opportunities as signals of the responsiveness of political elites. In turn, this perception of political responsiveness influences political trust and participation, which I show through observational and experimental evidence in an original survey of more than 1,200 fast-food workers. Importantly, this relationship varies depending on the strength of local employment policies and programs, making local context important for understanding how low-wage labor influences political outcomes. The study advances our understanding of the relationship between work and political behavior
       </div>
     </ul>
 </div>
@@ -41,7 +38,7 @@ horizontal: false
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <div class="col-md-12">
-<https://doi.org/10.1177/13540688231199448>
+https://doi.org/10.1177/13540688231199448
           <br>
         Mainstream European left-wing parties have seen their traditional class base evolve in postindustrial economies. In response, these parties have adopted redistributive strategies that aim to secure positions for workers in a more volatile labor market through education and training. But how does the electoral appeal of this “social investment” paradigm compare to that of the older welfare paradigm that passively distributes benefits to the poor and inactive? Using cross-country data from two surveys, I find that the policy preferences of industrial workers respond differently to labor market precarity than do those of service sector workers, particularly sociocultural professionals. Further, industrial workers who prefer traditional welfare policies are less likely to vote for the center-left than white-collar professionals, even if those professionals hold similar policy priorities. These results help explain the center-left’s recent electoral trends while also highlighting current limitations on building cross-class political coalitions.
       </div>
@@ -52,6 +49,36 @@ horizontal: false
 <br>
 <h3 style="color: #4b9cd3;">Working papers</h3>
 <!-- Working papers -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title">When does work motivate political participation? A study of essential workers during COVID-19</h5>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <div class="col-md-12">
+          <i>Under review<\i>
+              <br>
+        Despite the centrality of employment to the lives of most working-age adults, there is surpris-
+ingly little research on how conditions in the workplace affect political behavior. Because most
+jobs operate in the private sector, their internal governance is not usually believed to affect
+political behavior directly. However, there is reason to think that a person’s experiences within
+private firms might motivate participation when conditions within it are seen as connected to
+issues, institutions, and groups outside of it. This is particularly likely when related issues are
+taken up by organized groups, parties, and elites. To demonstrate, I study how differences in
+satisfaction with COVID-19 workplace safety policies affected voter turnout among essential
+workers in the United States. Using difference-in-difference (DiD) estimators, I find evidence
+that dissatisfaction with workplace policies increased turnout. I further use DiD designs to show
+the effect was mediated by issue salience, trust in government, and worker solidarity. However,
+these effects only occurred when a person’s attitudes toward COVID-19 safety policies aligned
+with those of the party with which they identified. The findings point to conditions under which
+private governance may impact political participation.
+      </div>
+    </ul>
+  </div>
+</div>
+
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
