@@ -58,7 +58,7 @@ https://doi.org/10.1177/13540688231199448
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <div class="col-md-12">
-          <i>Under review<\i>
+          <i>Under review</i>
               <br>
         Despite the centrality of employment to the lives of most working-age adults, there is surpris-
 ingly little research on how conditions in the workplace affect political behavior. Because most
