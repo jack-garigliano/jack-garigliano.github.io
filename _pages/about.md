@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome! I’m a PhD candidate in American politics at Northwestern University. My research brings together the study of political behavior, political economy, and public policy to explore how conditions at work influence political attitudes and behavior.
 
-My dissertation, _The Politics of Employment in Postindustrial United States,_ uses mixed methods to study how working in low-wage industries affects political trust and participation. Thanks to support from the Russell Sage Foundation and other organizations, the study draws on more than 60 in-depth interviews and a survey of over 1,200 fast-food workers across the United States.
+My dissertation, _The Politics of Employment in Postindustrial United States,_ uses mixed methods to study how working in low-wage industries affects political trust and participation. Thanks to support from the Russell Sage Foundation and other organizations, the study draws on in-depth interviews, original surveys, and firm-level data for low-wage workers across the United States.
 
 In other research projects, I draw on a range of methods to study the political attitudes and behavior of workers in other contexts, both in the United States and in Western Europe. I also study public-private approaches to US welfare policy, especially those policies linked to employment. My work has been published in _[Party Politics](https://journals.sagepub.com/doi/full/10.1177/13540688231199448)_.
 
