@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! I’m an Assistant Professor in the School of Politics, Security, and International Relations at the University of Central Florida. I study American politics, political economy, and behavior, with my primary research area centered on how the changing nature of work impacts political engagement and organizing. 
+Welcome! I’m an Assistant Professor in the School of Politics, Security, and International Relations at the University of Central Florida. I study American politics, political economy, and behavior, with my primary research interests centered on how the changing nature of work impacts political engagement and organizing. 
 
 My dissertation, _The Politics of Employment in Postindustrial United States,_ uses mixed methods to study how conditions in low-wage industries affect social cohesion and political engagement. Thanks to support from the Russell Sage Foundation and other organizations, the study draws on in-depth interviews, original surveys, and firm-level data for low-wage workers across the United States.
 
